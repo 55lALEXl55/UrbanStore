@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "621061391441",
-    "project_id": "loginmovil-23f99",
-    "storage_bucket": "loginmovil-23f99.appspot.com"
+    "project_number": "",
+    "project_id": "",
+    "storage_bucket": ""
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:621061391441:android:7a2ecc07f8a7e4c1b0e470",
+        "mobilesdk_app_id": "",
         "android_client_info": {
           "package_name": "com.example.groceryapp"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyA0LfV6LKdc_hAEuoQaF6VLkJM-MJ9aTZ0"
+          "current_key": ""
         }
       ],
       "services": {
